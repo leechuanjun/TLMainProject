@@ -1,0 +1,6 @@
+framework module TLBModuleCTMediator {
+  umbrella header "TLBModuleCTMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}
