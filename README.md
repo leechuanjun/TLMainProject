@@ -1,2 +1,2 @@
-# TLSurveyGrowingIO
-调用GrowingIO库的使用和功能。
+# TLMainProject
+测试组件化功能的主工程。
